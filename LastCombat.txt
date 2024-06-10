@@ -1,0 +1,7 @@
+round1:
+enemy hp 430
+
+group
+food 45
+hero1 95
+hero2 ...
